@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.domain.EntityScan;
 
 /**
+ * 商品系统
  * @author darren
  * @create 2020-12-25 23:48
  */
